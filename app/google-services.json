@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303125330956",
+    "project_id": "databasereadusedataapp",
+    "storage_bucket": "databasereadusedataapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303125330956:android:fa0ca16e7a240335ab4229",
+        "android_client_info": {
+          "package_name": "com.example.databasereadusedataapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3ELJ-nF1c9QMHayobtmg2EIDUZHDnOok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
